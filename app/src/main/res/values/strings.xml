@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">accuweatherCase</string>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cloudy">Bulutlu</string>
+    <string name="app_label">AccuWeather</string>
+    <string name="search_hint">Search</string>
 </resources>
